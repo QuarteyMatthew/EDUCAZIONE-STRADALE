@@ -1,0 +1,19 @@
+principalemnte andava tutto bene, ho portato alcune modifiche, esmepio
+
+ho aggiunto la lingua defolt del sito
+
+ho cambiato il font e il colori cosi da avere una pagina con uno "standard"
+
+ho riordinato il codice per una lettura migliore{
+    messo il body in alto e aggiundo un margin 0 e padding 0 che servono a "reazzerare appunto i margini e 
+    padding della pagina;
+}
+ho messo un icona per il ritorna indietro cosi da non avere quel bottone bruttino
+icone le prendo sempre da https://fontawesome.com/
+
+ho cambiato il bottone del risultato
+
+ho cambiato il colore sempre per avere una unicita
+
+
+ho centrato il tutto.
