@@ -47,7 +47,7 @@ section.show {
 
 .paragrafo-nobox{
     font-size: 20px;
-    text-align: center;
+    text-align: left;
     margin-top: 150px;
 }
 
@@ -94,7 +94,7 @@ section.show {
 
 .box{
     font-size: 30px;
-    text-align: center;
+    text-align: left;
     background-color:#E5E2D7 ;
     border-radius: 50px;
     width: auto;
